@@ -1,0 +1,38 @@
+.frontpage{
+  background-image: url(images/opening.png);
+  background-size: cover;
+  height: 100vh;
+}
+.nav-link{
+  text-transform: uppercase;
+  font-weight:100;
+}
+.jumbotron{
+  background-color: transparent !important;
+}
+.display-4{
+  color: #0e9fba;
+  font-weight: bold !important;
+  font-size: 3em !important;
+}
+.lead{
+  color: #FFF;
+  font-weight: 500 !important;
+  font-size: 1.4em !important;
+}
+.jumbotron button{
+  border: 2px solid white;
+  border-radius: 0;
+  color: #FFF;
+  width: 13em;
+}
+.jumbotron button:hover{
+  border: 2px solid #FFF;
+  border-radius: 50 !important;
+  color: #000;
+  background-color: #FFF;
+  width: 13em;
+}
+#center{
+  height: 100vh;
+}
